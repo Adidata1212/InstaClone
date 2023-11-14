@@ -23,4 +23,4 @@ Solved Questions and found some insights
 
 - Can you help me find the users whose name starts with c and ends with any number and have posted the photos as well as liked the photos?
 
--Demonstrate the top 30 usernames to the company who have posted photos in the range of 3 to 5.
+- Demonstrate the top 30 usernames to the company who have posted photos in the range of 3 to 5.
